@@ -73,17 +73,17 @@ button{
 }
 @media only screen and (max-width:500px){
   h1, p{
-    font-size: 9rem;
+    font-size: 6rem;
   }
   .square{
     height: 120px;
     width: 120px;
-    font-size: 8rem;
+    font-size: 5rem;
   }
   button{
     display: none;
     padding: 0.5rem 1rem 0.5rem 1rem;
-    font-size: 8rem;
+    font-size: 5rem;
 
   }
 }
