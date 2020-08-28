@@ -71,3 +71,12 @@ button{
   border-radius: 15px;
   outline: none;
 }
+@media only screen and (max-width:500px){
+  h1, p{
+    font-size: 4rem;
+  }
+  .square{
+
+    font-size: 3rem;
+  }
+}
